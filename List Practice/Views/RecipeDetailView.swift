@@ -16,6 +16,8 @@ struct RecipeDetailView: View {
         ScrollView {
             Text(recipe.name)
             Text(recipe.cuisine)
+            Text(recipe.name)
+            Text(recipe.cuisine)
         }
     }
 }
