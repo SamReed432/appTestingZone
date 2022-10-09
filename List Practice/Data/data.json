@@ -1,0 +1,15 @@
+[
+    
+    {
+    "name":"kuggle",
+    "cuisine":"Jewish"
+    },
+    {
+    "name":"sushi",
+    "cuisine":"Asian"
+    },
+    {
+    "name":"Pastrami Sandwich",
+    "cuisine":"New York"
+    }
+]
